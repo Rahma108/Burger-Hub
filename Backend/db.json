@@ -1,0 +1,26 @@
+
+{
+    "menu": [
+    { "id": 1, "name": "Cheese Burger", "price": "120"},
+    { "id": 2, "name": "Regular Beef Burger", "price": "90" },
+    { "id": 3, "name": "Big Meety", "price": "100" },
+    { "id": 4, "name": "Double Beef ", "price": "180"},
+    { "id": 5, "name": "Cirspy Chicken ", "price": "190" },
+    { "id": 6, "name": "Cheese Burger", "price": "300" },
+    { "id": 7, "name": "Regular Beef Burger", "price": "70" },
+    { "id": 8, "name": "Big Meety", "price": "160" }
+
+
+
+
+]
+}
+
+
+
+
+
+
+
+
+
